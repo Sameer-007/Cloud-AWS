@@ -9,6 +9,6 @@ public class Main {
 	Scanner sc = new Scanner(System.in);
 	n1 = sc.nextInt();
 	n2 = sc.nextInt();
-	System.out.println(n1+" "+n2);
+	System.out.println(n1+" "+n2+" "=n1+n2);
 	}
 }
